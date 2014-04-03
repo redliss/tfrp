@@ -9,8 +9,9 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'slim'
 gem 'jquery-rails'
 gem 'turbolinks'
-
+gem 'therubyracer'
 gem 'devise'
+gem 'slim-rails'
 
 gem 'thin'
 
