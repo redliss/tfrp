@@ -13,11 +13,13 @@ gem 'therubyracer'
 gem 'devise'
 gem 'slim-rails'
 
+gem 'decent_exposure'
 gem 'thin'
 
 group :testing, :development do
   gem 'rspec-rails'
   gem 'factory_girl_rails'
+  gem 'better_errors'
 end
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
